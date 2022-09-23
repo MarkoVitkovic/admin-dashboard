@@ -24,8 +24,6 @@ const App = () => {
                         </button>
                     </TooltipComponent>
                 </div>
-            </div>
-            <div>
                 {activeMenu ? ( 
                     <div className='w-72 fixed sidebar dark:bg-secondary-dark-bg bg-white'>
                         <Sidebar />
@@ -36,7 +34,7 @@ const App = () => {
                     </div>
                 )}
                 <div className={ `dark:bg-main-bg bg-main-bg min-h-screen w-full ${activeMenu ? 'md:ml-72' : 'w-full' }` }>
-                    <div className='fixed md:static bg-main-bg dark:bg-main-dark-bd w-full'>
+                    <div className='fixed md:static bg-main-bg dark:bg-main-dark-bg navbar w-full'>
                         <Navbar />
                     </div>
                 </div>
@@ -70,7 +68,6 @@ const App = () => {
 
                     </Routes>
                 </div>
-
             </div>
         </BrowserRouter>
     </div>
