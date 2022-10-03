@@ -4,8 +4,8 @@
 
 Every web developer needs to build a React Admin Dashboard Application. This Admin Panel includes one Dashboard, Three Pages, Four Apps, and Four fully functional charts!
 
-⭐Syncfusion Components: https://bit.ly/39pzH3R
-⭐Syncfusion React Components: https://bit.ly/3lhzpyB
+⭐Syncfusion Components: https://bit.ly/39pzH3R </br>
+⭐Syncfusion React Components: https://bit.ly/3lhzpyB </br>
 
 📚 Materials/References:
 
