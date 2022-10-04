@@ -18,4 +18,4 @@ Alongside building this phenomenal application, you'll learn:
 
 💼 Business Inquiries: marko.vitkovic@outlook.com
 
-👀 Check live app here: main-admin-dashboard.netlify.app
+👀 Check live app here: https://main-admin-dashboard.netlify.app
