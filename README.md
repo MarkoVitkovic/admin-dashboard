@@ -17,3 +17,5 @@ Alongside building this phenomenal application, you'll learn:
 - And most importantly you’ll learn how to use Syncfusion - World's Best UI Component Suite for Building Powerful Web, Desktop, and Mobile Apps
 
 💼 Business Inquiries: marko.vitkovic@outlook.com
+
+👀 Check live app here: main-admin-dashboard.netlify.app
